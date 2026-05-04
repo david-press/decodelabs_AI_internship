@@ -1,0 +1,1 @@
+## This repository contains all the projects for the 4-week decodelabs AI internship.
